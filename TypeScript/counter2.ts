@@ -1,0 +1,19 @@
+// Problem No: 2665
+// Problem Name: Counter II
+// Time:  O(1)
+// Space: O(1)
+
+type ReturnObj = {
+    increment: () => number,
+    decrement: () => number,
+    reset: () => number,
+}
+
+function createCounter(init: number): ReturnObj {
+    let curr = init;
+    return {
+    increment: ():number => ++curr,
+    decrement: ():number => --curr,
+    reset: ():number => (curr=init)
+    }
+};
