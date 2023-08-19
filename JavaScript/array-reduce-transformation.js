@@ -1,5 +1,6 @@
 // Problem No: 2626
 // Problem Name: Array Reduce Transformation
+// Problem Link: https://leetcode.com/problems/array-reduce-transformation
 // Time:  O(n)
 // Space: O(1)
 
