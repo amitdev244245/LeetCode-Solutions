@@ -1,5 +1,6 @@
 // Problem No: 50
 // Problem Name: Pow(x, n) (Medium)
+// Problem Link: https://leetcode.com/problems/powx-n
 // Time:  O(1)
 // Space: O(1)
 
