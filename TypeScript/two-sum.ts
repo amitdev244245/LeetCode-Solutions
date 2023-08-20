@@ -1,5 +1,6 @@
 // Problem No: 1
 // Problem Name: Two Sum
+// Problem Link: https://leetcode.com/problems/two-sum
 
 function twoSum(nums: number[], target: number): number[] {
   for (let i = 0; i < nums.length; i++) {
